@@ -1,0 +1,4 @@
+Salario: 730,00 €
+Imposto: 51,10 €
+Bonus: 36,50 €
+Salario Liquido: 715,40 €
